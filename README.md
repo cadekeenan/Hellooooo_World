@@ -16,7 +16,7 @@ ProPrep Practice Repo
 
 ## Description 
 
-I can test my knowledge and understanding of GitHub repo's and understand how to *italicize*, **bold**, ~~strikethrough~~, and format different texts through the repo.
+I can test my knowledge and understanding of GitHub repo's and understand how to *italicize*, **bold**, ~~strikethrough~~, and format different texts as well as markdown syntax options through the repo.
 
 ## How to Run Program 
 While there is no program here, if there was a theoretical program in this repo, it would look something like this:
